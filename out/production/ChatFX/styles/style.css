@@ -1,0 +1,21 @@
+#sndMsg{
+-fx-background-color: floralwhite;
+-fx-border-color: white;
+-fx-border-style: solid;
+}
+
+#sndMsg: hover {
+-fx-background-color: black;
+-fx-text-fill: white;
+}
+
+#textArea{
+-fx-background-color: whitesmoke;
+-fx-text-fill: black;
+}
+
+#textField{
+-fx-background-color: ghostwhite;
+-fx-border-color: black;
+-fx-border-style: solid;
+}
